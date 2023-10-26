@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-26T09:11:20.417Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="QPLoZUC_SH3StpnowA0N" version="22.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-26T09:11:38.673Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="5uuGUBJHDliJNk7QY8bK" version="22.0.7" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="587" dy="1476" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -260,14 +260,14 @@
         <mxCell id="siYbV0HiUOZwd2Igdg8H-57" value="id_penonton" style="ellipse;whiteSpace=wrap;html=1;fontStyle=2" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1360" y="-780" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="siYbV0HiUOZwd2Igdg8H-58" value="id_movie" style="ellipse;whiteSpace=wrap;html=1;fontStyle=2" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="siYbV0HiUOZwd2Igdg8H-58" value="&lt;span style=&quot;font-style: normal;&quot;&gt;harga&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontStyle=2" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1520" y="-590" width="70" height="34" as="geometry" />
         </mxCell>
         <mxCell id="siYbV0HiUOZwd2Igdg8H-59" value="tgl_tiket" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1330" y="-599" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="siYbV0HiUOZwd2Igdg8H-60" value="harga" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1330" y="-685" width="60" height="30" as="geometry" />
+        <mxCell id="siYbV0HiUOZwd2Igdg8H-60" value="&lt;i&gt;id_movie&lt;/i&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1320" y="-680" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="siYbV0HiUOZwd2Igdg8H-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="siYbV0HiUOZwd2Igdg8H-68" target="siYbV0HiUOZwd2Igdg8H-70">
           <mxGeometry relative="1" as="geometry" />
