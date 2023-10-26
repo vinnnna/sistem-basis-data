@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-26T08:46:18.242Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="eiwxmFQ4sgX3pSr_XYED" version="22.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-26T08:46:52.163Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="RhaNrZaCjB6FrBzCkW_H" version="22.0.7" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="880" dy="1629" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -135,7 +135,7 @@
         <mxCell id="_PKyM5IX76t0KB1Gp7Ri-6" value="tayangkan" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;arcSize=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="559" y="-650" width="110" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="siYbV0HiUOZwd2Igdg8H-0" value="id_theater" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="siYbV0HiUOZwd2Igdg8H-0" value="id_theater" style="ellipse;whiteSpace=wrap;html=1;fontStyle=5" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="250" y="-720" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="siYbV0HiUOZwd2Igdg8H-1" value="nma_theater" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -147,7 +147,7 @@
         <mxCell id="siYbV0HiUOZwd2Igdg8H-7" value="judul_movie" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="790" y="-540" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="siYbV0HiUOZwd2Igdg8H-8" value="id_movie" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="siYbV0HiUOZwd2Igdg8H-8" value="id_movie" style="ellipse;whiteSpace=wrap;html=1;fontStyle=5" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="740" y="-680" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="siYbV0HiUOZwd2Igdg8H-9" value="genre" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -171,7 +171,7 @@
         <mxCell id="siYbV0HiUOZwd2Igdg8H-15" value="director" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="980" y="-690" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="siYbV0HiUOZwd2Igdg8H-27" value="id_admin" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="siYbV0HiUOZwd2Igdg8H-27" value="id_admin" style="ellipse;whiteSpace=wrap;html=1;fontStyle=5" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="760" y="-1060" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="siYbV0HiUOZwd2Igdg8H-29" value="password" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -186,8 +186,8 @@
         <mxCell id="siYbV0HiUOZwd2Igdg8H-34" value="nma_penonton" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1210" y="-870" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="siYbV0HiUOZwd2Igdg8H-35" value="id_penonton" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1050" y="-870" width="90" height="40" as="geometry" />
+        <mxCell id="siYbV0HiUOZwd2Igdg8H-35" value="id_penonton" style="ellipse;whiteSpace=wrap;html=1;fontStyle=5" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1030" y="-870" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="siYbV0HiUOZwd2Igdg8H-38" value="no_telp" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1010" y="-810" width="80" height="40" as="geometry" />
