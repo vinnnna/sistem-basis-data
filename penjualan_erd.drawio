@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-29T16:25:11.046Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="gk3RlxAiTazBSBNEOcUx" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-29T16:31:53.993Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="0s4qBQ6rBVoO0xIo98lK" version="22.0.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="629" dy="1498" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1316" dy="1425" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -397,6 +397,18 @@
         </mxCell>
         <mxCell id="FsfqvCxigXIEtIi23rFH-90" value="password" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="629.5" y="710" width="90.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FsfqvCxigXIEtIi23rFH-95" value="nma_penjual" style="ellipse;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="105" y="450" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FsfqvCxigXIEtIi23rFH-96" value="id_penjual" style="ellipse;whiteSpace=wrap;html=1;fontStyle=5" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="140" y="320" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FsfqvCxigXIEtIi23rFH-97" value="alamat_penjual" style="ellipse;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="10" y="320" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FsfqvCxigXIEtIi23rFH-98" value="no_telp_penjual" style="ellipse;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-50" y="455" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
