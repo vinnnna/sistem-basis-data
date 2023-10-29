@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-29T17:06:50.222Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="24DWdoG6Byy33iSLsqGm" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-29T17:12:02.805Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="rZRZgsA_tzMrwOF246GV" version="22.0.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="587" dy="307" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="489" dy="256" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -500,8 +500,8 @@
         <mxCell id="FsfqvCxigXIEtIi23rFH-74" value="tgl_dikirim" style="ellipse;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1070" y="912" width="88.25" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FsfqvCxigXIEtIi23rFH-75" value="metode" style="ellipse;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="1080" y="827" width="60" height="30" as="geometry" />
+        <mxCell id="FsfqvCxigXIEtIi23rFH-75" value="jenis_pengiriman" style="ellipse;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1030" y="821.5" width="110" height="37" as="geometry" />
         </mxCell>
         <mxCell id="FsfqvCxigXIEtIi23rFH-76" value="alamat_pengiriman" style="ellipse;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1140" y="952" width="123.5" height="40" as="geometry" />
