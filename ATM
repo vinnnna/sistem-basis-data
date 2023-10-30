@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-30T08:25:24.820Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="D-FmAQwq6qL8qMeRR3qR" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-30T08:26:37.550Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="PvhNRRPjKdfwDAOpMweY" version="22.0.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1257" dy="1826" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="765" dy="1569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -131,6 +131,9 @@
         <mxCell id="XMBGPei1HmZlOJbILgrS-59" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6mzT0_uPFSC95jE5xX6E-4" target="XMBGPei1HmZlOJbILgrS-58">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="XMBGPei1HmZlOJbILgrS-76" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6mzT0_uPFSC95jE5xX6E-4" target="XMBGPei1HmZlOJbILgrS-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="6mzT0_uPFSC95jE5xX6E-4" value="transaksi" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;arcSize=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="690" y="-954.5" width="120" height="40" as="geometry" />
         </mxCell>
@@ -138,7 +141,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6mzT0_uPFSC95jE5xX6E-6" value="untuk" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="700" y="-790" width="100" height="80" as="geometry" />
+          <mxGeometry x="700" y="-770" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="6mzT0_uPFSC95jE5xX6E-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6mzT0_uPFSC95jE5xX6E-7" target="6mzT0_uPFSC95jE5xX6E-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -155,9 +158,7 @@
         <mxCell id="6mzT0_uPFSC95jE5xX6E-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6mzT0_uPFSC95jE5xX6E-27" target="6mzT0_uPFSC95jE5xX6E-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="590" y="-780" />
-              <mxPoint x="590" y="-840" />
-              <mxPoint x="720" y="-840" />
+              <mxPoint x="720" y="-780" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -194,8 +195,8 @@
         <mxCell id="XMBGPei1HmZlOJbILgrS-18" value="tipe_transaksi" style="ellipse;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="780" y="-1025" width="90" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="XMBGPei1HmZlOJbILgrS-20" value="jumlah_transaksi" style="ellipse;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="610" y="-1010" width="110" height="35" as="geometry" />
+        <mxCell id="XMBGPei1HmZlOJbILgrS-20" value="nmr_akun" style="ellipse;whiteSpace=wrap;html=1;fontStyle=6" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="630" y="-1027.5" width="80" height="35" as="geometry" />
         </mxCell>
         <mxCell id="XMBGPei1HmZlOJbILgrS-21" value="waktu_transaksi" style="ellipse;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="830" y="-982" width="110" height="35" as="geometry" />
@@ -295,6 +296,9 @@
         </mxCell>
         <mxCell id="XMBGPei1HmZlOJbILgrS-72" value="meyimpan" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="430" y="-974.5" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XMBGPei1HmZlOJbILgrS-75" value="jumlah_transaksi" style="ellipse;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="790" y="-894.5" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
